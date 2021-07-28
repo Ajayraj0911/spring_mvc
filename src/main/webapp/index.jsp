@@ -5,6 +5,7 @@
 	<div>
 	<a href="./addemployee">Add Employee</a>
 	<a href="./viewemployee">VIEW Employee</a>
+	<a href="./login">LOGIN</a>
 	</div>
 </body>
 </html>
